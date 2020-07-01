@@ -1,0 +1,98 @@
+*{
+	margin-0px;
+	padding: 0px
+}
+
+img{
+	max-width: 100%;
+}
+
+nav{
+	background-color:#232121;
+}
+
+.logo img{
+	width: 120px;
+}
+
+.form-section{
+	padding: 150px 0px;
+	background-image: url(../image/formm.jpg);
+	background-blend-mode: multiply;
+	background-color: #0a0a0aeb;
+	height: fit-content;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.form-section h1{
+	font-size: 60px;
+	font-weight: 700;
+	color: #fff;
+	padding: 80px 0px 0px;
+}
+.form-section p{
+	color: gray;
+	font-size: 10px;
+	
+}
+
+.second{
+	background-color:#ffffff17;
+	padding: 20px 20px;
+
+}
+
+@media(max-width: 1199px) {
+	.second{
+	background-color:#ffffff17;
+	padding: 20px 100px;
+}
+
+.form-section h1{
+	font-size: 50px;
+	padding: 0px 80px;
+}
+
+.form-section p{
+	font-size: 10px;
+	padding: 0px 80px;
+
+}
+
+
+}
+
+/*login form end*/
+
+/*signup form start*/
+
+.signup-section{
+	padding: 130px 0px 80px;
+
+}
+
+.signup-sec span{
+	color: green;
+}
+
+.area{
+	padding: 200px;
+	box-shadow: 0 0 2px gray;
+	text-align: center;
+}
+
+@media(max-width: 1199px) {
+
+}
+/*signup form end*/
+
+/*login form start*/
+
+.login img{
+	padding: 40px 0px;
+}
+.login-headline p{
+}
+
